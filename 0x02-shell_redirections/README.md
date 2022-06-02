@@ -1,1 +1,1 @@
-script that does things
+whatever the script does
