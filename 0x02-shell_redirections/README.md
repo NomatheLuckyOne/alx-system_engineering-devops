@@ -1,1 +1,1 @@
-what a script wants
+whatever the script wants
