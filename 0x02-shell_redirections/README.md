@@ -1,1 +1,1 @@
-script sam
+My script
