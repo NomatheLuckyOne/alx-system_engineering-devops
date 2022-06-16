@@ -1,1 +1,1 @@
-script that prints hello user, where user is the current Linux use
+anything a script does
