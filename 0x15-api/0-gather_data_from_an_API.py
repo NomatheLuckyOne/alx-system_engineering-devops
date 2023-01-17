@@ -4,12 +4,6 @@
 import requests
 import sys
 
-
-if __name__ == '__main__':
-    employeeId = sys.argv[1]
-    baseUrl = "https://jsonplaceholder.typicode.com/users"
-    url = baseUrl + "/" + employeeId
-
     response = requests.get(url)
     employeeName = response.json().get('name')
 
